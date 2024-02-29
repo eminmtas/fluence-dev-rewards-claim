@@ -1,10 +1,10 @@
 # Fluence Airdropumu Nasıl Claim Edeceğim?
 
-Selamlar, Fluence Network 110 bini aşkın aktif web3 geliştiricisine $FLT token airdropu yaptı. Ben de Rues hocam sayesinde bunun farkına varıp claim ettim. RC <3
+Selamlar, [Fluence Network](https://fluence.network/) 110 bini aşkın aktif web3 geliştiricisine $FLT token airdropu yaptı. Ben de Rues hocam sayesinde bunun farkına varıp claim ettim. RC <3
 
 Claim için ne yapmamız gerekiyor onu anlatacağım.
 
-Öncelikle claim sayfasına gidiyoruz ve github kullanıcı adımızı aratıyoruz. Eligible isek şu şekilde bir sayfa bizi karşılayacak:
+Öncelikle [claim sayfasına](https://claim.fluence.network/) gidiyoruz ve github kullanıcı adımızı aratıyoruz. Eligible isek şu şekilde bir sayfa bizi karşılayacak:
 
 ![image](https://github.com/eminmtas/fluence-dev-rewards-claim/assets/44838743/d8eb0538-cc0a-488d-a452-636cae02fd65)
 
